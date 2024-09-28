@@ -18,7 +18,7 @@ import io.cucumber.junit.CucumberOptions;
 		dryRun=false,
 		monochrome=true,
 //		tags="@Sanity",
-		tags="@P1"
+		tags={"@P1","@P2"}
 		)
 
 public class testRunner {
